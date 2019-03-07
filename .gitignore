@@ -1,0 +1,9 @@
+Include/*
+Lib/*
+runs/*
+Scripts/*
+tcl/*
+text/*
+data/*
+.ipynb_checkpoints/*
+pip-selfcheck.json
